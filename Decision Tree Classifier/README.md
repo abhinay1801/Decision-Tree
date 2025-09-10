@@ -4,7 +4,8 @@ This project demonstrates the implementation of a **Decision Tree Classifier** o
 The focus is on **pre-pruning** and **hyperparameter tuning** to improve accuracy and avoid overfitting.
 
 
-## 🔹 Decision Tree Classifier
+## Decision Tree Classifier
+
 ### Description
 The **Decision Tree Classifier** is trained on the Iris dataset to predict flower species based on four features.  
 Pruning and parameter tuning are applied to optimize the model.
@@ -23,6 +24,6 @@ Pruning and parameter tuning are applied to optimize the model.
   - Train/Test comparison  
 
 
-## 📊 Results
+## Results
 - **Default Decision Tree**: Good accuracy but risk of overfitting  
 - **Tuned Decision Tree**: Improved accuracy & better generalization  
